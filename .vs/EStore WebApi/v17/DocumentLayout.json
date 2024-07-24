@@ -1,0 +1,966 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\product\\readproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\product\\readproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\product\\writeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\product\\writeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\category\\writecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\category\\writecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.infrastructure\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|solutionrelative:estore.infrastructure\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\dbcontexts\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\dbcontexts\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\usertoken\\writeusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\usertoken\\writeusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\usertoken\\readusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\usertoken\\readusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\user\\readuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\user\\readuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\helpers\\tokencredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\helpers\\tokencredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.persistence\\repositories\\role\\readrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82CF13-912D-4ED6-95CE-F5914BBDEAAB}|EStore.Persistence\\EStore.Persistence.csproj|solutionrelative:estore.persistence\\repositories\\role\\readrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\controllers\\createusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\controllers\\createusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\viewmodels\\getuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\viewmodels\\getuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.webapi\\controllers\\sendemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A208894B-F233-4A55-A0CB-381AE3419EB0}|EStore.WebApi\\EStore.WebApi.csproj|solutionrelative:estore.webapi\\controllers\\sendemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|solutionrelative:estore.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5251492B-51CD-44D4-8275-15FE6DDF573C}|EStore.Infrastructure\\EStore.Infrastructure.csproj|solutionrelative:estore.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\invoice\\iwriteinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\invoice\\iwriteinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\invoiceitem\\iwriteinvoiceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\invoiceitem\\iwriteinvoiceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\invoiceitem\\ireadinvoiceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\invoiceitem\\ireadinvoiceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\invoice\\ireadinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\invoice\\ireadinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\product\\iwriteproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\product\\iwriteproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\role\\iwriterolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\role\\iwriterolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\role\\ireadrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\role\\ireadrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\usertoken\\iwriteusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\usertoken\\iwriteusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\usertoken\\ireadusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\usertoken\\ireadusertokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\user\\iwriteuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\user\\iwriteuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\user\\ireaduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\user\\ireaduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\category\\iwritecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\category\\iwritecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\category\\ireadcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\category\\ireadcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\common\\iwritegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\common\\iwritegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.application\\repositories\\common\\ireadgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2ADCB1-EBF9-4EC8-B678-DCD3AEFE9664}|EStore.Application\\EStore.Application.csproj|solutionrelative:estore.application\\repositories\\common\\ireadgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\concretes\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\concretes\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|c:\\users\\user\\downloads\\asp.net-estore-webapi-main\\asp.net-estore-webapi-main\\estore.core\\entities\\abstracts\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852F57C-985E-4FDD-82FE-657D6245FC7E}|EStore.Core\\EStore.Domain.csproj|solutionrelative:estore.core\\entities\\abstracts\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EStore/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EStore/True/SqlTable/dbo.UserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriteCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Category\\WriteCategoryRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\Category\\WriteCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Category\\WriteCategoryRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\Category\\WriteCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:57:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:50:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "EStore.Infrastructure\\RegisterServices.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\RegisterServices.cs",
+              "RelativeToolTip": "EStore.Infrastructure\\RegisterServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:35:14.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:47:44.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Product\\ReadProductRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\Product\\ReadProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Product\\ReadProductRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\Product\\ReadProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:37:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Product\\WriteProductRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\Product\\WriteProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Product\\WriteProductRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\Product\\WriteProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:37:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:27:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteUserTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\UserToken\\WriteUserTokenRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\UserToken\\WriteUserTokenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\UserToken\\WriteUserTokenRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\UserToken\\WriteUserTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:20:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReadRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Role\\ReadRoleRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\Role\\ReadRoleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\Role\\ReadRoleRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\Role\\ReadRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:17:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\ViewModels\\GetUserVM.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\ViewModels\\GetUserVM.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\ViewModels\\GetUserVM.cs",
+              "RelativeToolTip": "EStore.Core\\ViewModels\\GetUserVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:06:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:01:36.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\User.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\User.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:59:14.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\CreateUserController.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Controllers\\CreateUserController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\CreateUserController.cs",
+              "RelativeToolTip": "EStore.WebApi\\Controllers\\CreateUserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:20:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\ViewModels\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\ViewModels\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\ViewModels\\GetCategoryVM.cs",
+              "RelativeToolTip": "EStore.Core\\ViewModels\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:56:45.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:54:58.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EStore.WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAH0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:52:39.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\ResetPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:46:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\DTO\\ForgotPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\DTO\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "EStore.Core\\DTO\\ForgotPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:46:45.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SendEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\SendEmailController.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Controllers\\SendEmailController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\SendEmailController.cs",
+              "RelativeToolTip": "EStore.WebApi\\Controllers\\SendEmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:40:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EStore.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:39:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Program.cs",
+              "RelativeToolTip": "EStore.WebApi\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:38:37.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\UserToken.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\UserToken.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\UserToken.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\UserToken.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:35:00.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IWriteInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Invoice\\IWriteInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Invoice\\IWriteInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Invoice\\IWriteInvoiceRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Invoice\\IWriteInvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:12:30.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IWriteInvoiceItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\InvoiceItem\\IWriteInvoiceItemRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\InvoiceItem\\IWriteInvoiceItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\InvoiceItem\\IWriteInvoiceItemRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\InvoiceItem\\IWriteInvoiceItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:12:28.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IReadInvoiceItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\InvoiceItem\\IReadInvoiceItemRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\InvoiceItem\\IReadInvoiceItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\InvoiceItem\\IReadInvoiceItemRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\InvoiceItem\\IReadInvoiceItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:12:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IReadInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Invoice\\IReadInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Invoice\\IReadInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Invoice\\IReadInvoiceRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Invoice\\IReadInvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:12:21.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IWriteProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Product\\IWriteProductRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Product\\IWriteProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Product\\IWriteProductRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Product\\IWriteProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:12:15.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IWriteRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Role\\IWriteRoleRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Role\\IWriteRoleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Role\\IWriteRoleRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Role\\IWriteRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:11:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IReadRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Role\\IReadRoleRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Role\\IReadRoleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Role\\IReadRoleRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Role\\IReadRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:09:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IWriteUserTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\UserToken\\IWriteUserTokenRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\UserToken\\IWriteUserTokenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\UserToken\\IWriteUserTokenRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\UserToken\\IWriteUserTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:09:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IWriteUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\User\\IWriteUserRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\User\\IWriteUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\User\\IWriteUserRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\User\\IWriteUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:09:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IWriteCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Category\\IWriteCategoryRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Category\\IWriteCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Category\\IWriteCategoryRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Category\\IWriteCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:08:25.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IReadCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Category\\IReadCategoryRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Category\\IReadCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Category\\IReadCategoryRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Category\\IReadCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:06:05.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EStore.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "EStore.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:38:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\ITokenService.cs",
+              "RelativeToolTip": "EStore.Application\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:33:29.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "EStore.Application\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:33:14.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "EStore.Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:32:37.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EStore.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "EStore.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:26:45.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Services\\IEmailService.cs",
+              "RelativeToolTip": "EStore.Application\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:26:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReadUserTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\UserToken\\IReadUserTokenRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\UserToken\\IReadUserTokenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\UserToken\\IReadUserTokenRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\UserToken\\IReadUserTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:25:52.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IWriteGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:24:35.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IReadGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:20:29.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IReadUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\User\\IReadUserRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Application\\Repositories\\User\\IReadUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Application\\Repositories\\User\\IReadUserRepository.cs",
+              "RelativeToolTip": "EStore.Application\\Repositories\\User\\IReadUserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:20:13.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Helpers\\TokenCredentials.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Helpers\\TokenCredentials.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Helpers\\TokenCredentials.cs",
+              "RelativeToolTip": "EStore.Core\\Helpers\\TokenCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:17:23.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EStore.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\appsettings.json",
+              "RelativeToolTip": "EStore.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T00:10:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\RegisterServices.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\RegisterServices.cs",
+              "RelativeToolTip": "EStore.Persistence\\RegisterServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:05:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\DbContexts\\EStoreDbContext.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\DbContexts\\EStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\DbContexts\\EStoreDbContext.cs",
+              "RelativeToolTip": "EStore.Persistence\\DbContexts\\EStoreDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:02:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Invoice.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\Invoice.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Invoice.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\Invoice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:07:30.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\InvoiceItem.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\InvoiceItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:22:43.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Product.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Product.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:06:11.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Category.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:03:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:56:57.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Abstracts\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Abstracts\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Abstracts\\IBaseEntity.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Abstracts\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:55:43.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadUserTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\UserToken\\ReadUserTokenRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\UserToken\\ReadUserTokenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\UserToken\\ReadUserTokenRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\UserToken\\ReadUserTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:44:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\User\\ReadUserRepository.cs",
+              "RelativeDocumentMoniker": "EStore.Persistence\\Repositories\\User\\ReadUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Persistence\\Repositories\\User\\ReadUserRepository.cs",
+              "RelativeToolTip": "EStore.Persistence\\Repositories\\User\\ReadUserRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:11:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Role.cs",
+              "RelativeDocumentMoniker": "EStore.Core\\Entities\\Concretes\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.Core\\Entities\\Concretes\\Role.cs",
+              "RelativeToolTip": "EStore.Core\\Entities\\Concretes\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:08:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EStore.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-EStore-WebApi-main\\ASP.NET-EStore-WebApi-main\\EStore.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EStore.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:46:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dbo.UserTokens [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EStore/True/SqlTable/dbo.UserTokens.sql",
+              "ToolTip": "dbo.UserTokens [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T13:30:59.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EStore/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T13:27:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
